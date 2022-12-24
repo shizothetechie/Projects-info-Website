@@ -44,8 +44,8 @@ export default function Home() {
         <div className="content container d-flex justify-content-between">
           <div className="d-flex justify-content-center align-items-center">
             <Image src={logo} className="logo img-fluid mx-2" alt="Logo" />
-            <Link className="navbar-brand" href="/">
-              Sahib Singh.
+            <Link className="navbar-brand" href="https://shizo.shizo3d.repl.co/">
+              Shizo The Techie
             </Link>
           </div>
           {/* <button className="btn navbar-btn">Hello</button> */}
