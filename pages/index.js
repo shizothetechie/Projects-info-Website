@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Sahib Singh&apos;s Links</title>
+        <title>Shizo The Techie&apos;s Projects</title>
         <meta name="title" content="Shizo The Techie's Projects" />
         <meta name="author" content="Shizo The Techie" />
         <meta
